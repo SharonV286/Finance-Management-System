@@ -1,0 +1,74 @@
+.border {
+	border-style: groove;
+	border-height:auto;	
+}
+
+.box{
+
+  width: 400px;
+  border-style: outset;
+ 
+  padding: 50px;
+  margin-left: 30%;
+  margin-bottom: auto;
+}
+
+.box2{
+
+  background: #80ff80;
+  border-style: outset;
+  width: 400px;
+  height: 1px;
+  padding-bottom: 50px;
+  padding-right: 7.5%; 	
+  margin-left: 30%;
+  margin-bottom: 10px;
+
+}
+
+#d4{
+	background-color: #EAE4E3;
+}
+
+
+h3{
+	margin: 5px;
+	text-align: center;
+	font-family: Lucida Fax;
+	font-size: auto;
+}
+p{
+	
+	font-weight: bold;
+	margin-left: 50%;
+	font-family: Lucida Fax;
+}
+
+pre{
+	text-align: left;
+	font-family: Lucida Fax;
+	font-weight: bold;
+	font-size: 20px;
+}	
+
+
+
+#tbl {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+  margin-left: 30%;
+  margin-bottom: 30px;
+  border-collapse: collapse;
+  width: 50%;
+}
+th{
+	
+	height: 50px;
+}
+tr{
+	cellspacing:;
+	height: 40px;
+}
+td{
+	text-align: center;
+}
